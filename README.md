@@ -5,9 +5,9 @@ Welcome to my programming practice repository!
 
 ## Student Information
 
-- **Name:**
-- **Student ID:**
-- **Section:**
+- **Name:Ariful Islam Rahat**
+- **Student ID:0112620301**
+- **Section:F**
 - **Course:** CSE 1112
 - **Course Title:** Structured Programming Language Laboratory
 - **Trimester:**
